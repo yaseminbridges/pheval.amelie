@@ -36,11 +36,6 @@ pheval-amelie = "pheval_amelie.cli:main"
 [tool.poetry.plugins."pheval.plugins"]
 pheval_amelie_runner = "pheval_amelie.runner:AmeliePhEvalRunner"
 
-[tool.poetry-dynamic-versioning]
-enable = true
-vcs = "git"
-style = "pep440"
-
 [tool.black]
 line-length = 120
 target-version = ["py38", "py39", "py310"]
