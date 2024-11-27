@@ -22,8 +22,10 @@ def main(verbose: int, quiet: bool):
     """
     CLI for pheval_amelie.
 
-    :param verbose: Verbosity while running.
-    :param quiet: Boolean to be quiet or verbose.
+    Args:
+        verbose (int): Verbosity while running.
+        quiet (bool): Boolean to be quiet or verbose.
+
     """
     if verbose >= 2:
         logger.setLevel(level=logging.DEBUG)
