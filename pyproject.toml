@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pheval_amelie"
-version = "0.0.0"
+version = "0.1.0"
 description = "pheval_amelie"
 authors = ["Yasemin Bridges <y.bridges@qmul.ac.uk>"]
 license = "Apache Software License 2.0"
