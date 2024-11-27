@@ -17,6 +17,12 @@ poetry install
 
 ```
 
+Alternatively, install with pip:
+
+```shell
+pip install pheval_amelie
+```
+
 ## Configuring a *single* run
 
 ### Setting up the input directory
