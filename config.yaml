@@ -1,5 +1,5 @@
 tool: pheval_amelie
-tool_version: 0.0.0
+tool_version: 3.1.0
 variant_analysis: False
 gene_analysis: True
 disease_analysis: False
